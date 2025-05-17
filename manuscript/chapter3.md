@@ -885,7 +885,7 @@ I> To link to an element on the same page, see [linking to heading IDs](#linking
 
 ### Adding Titles
 
-You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.
+You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in double quotation marks after the URL.
 
 {title="Markdown"}
 ~~~~~~~
